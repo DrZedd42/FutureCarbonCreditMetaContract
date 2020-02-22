@@ -1,4 +1,4 @@
-## OpenSea ERC-1155 Starter Contracts
+## FutureCarbonCredit ERC-1155 Starter Contracts
 
 - [About these contracts](#about-these-contracts)
   - [Configuring the Lootbox](#configuring-the-lootbox)
@@ -19,7 +19,9 @@
 
 # About these contracts
 
-This is a sample ERC-1155 contract for the purposes of demonstrating integration with the [OpenSea](https://opensea.io) marketplace for crypto collectibles. We also include:
+This is a sample ERC-1155 contract for the purposes of demonstrating integration with the [OpenSea](https://opensea.io) marketplace for crypto collectibles and the FCC Green Carbon Credit based financial system.
+
+We also include:
 - A script for minting items.
 - A factory contract for making sell orders for unminted items (allowing for **gas-free and mint-free presales**).
 - A configurable lootbox contract for selling randomized collections of ERC-1155 items.
